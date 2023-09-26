@@ -1,6 +1,6 @@
 {
-    "name": "root/relatedproducts",
-    "description": "relatedproducts",
+    "name": "root/people-also-bought-together",
+    "description": "people-also-bought-together",
     "type": "project",
     "license": "apache2",
     "authors": [
